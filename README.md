@@ -6,4 +6,4 @@ Preview:
 
 ![musicplayer](https://user-images.githubusercontent.com/62544164/174282857-0fd7deca-f55c-4bf6-ad4c-5e8296613e65.png)
 
-GitHub Page:
+GitHub Page: https://namkiit.github.io/Music_Player-/
