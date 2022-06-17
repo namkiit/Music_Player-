@@ -1,6 +1,6 @@
 An example of music player on web.
 
-Built by HTML, CSS and Javascript
+Built with HTML, CSS and Javascript.
 
 Preview: 
 
